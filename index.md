@@ -1,3 +1,5 @@
+{% raw %}
+
 All TWIG code must be enclosed in ```{% verbatim %}```. Example:
 ```twig
 {% verbatim %}
@@ -296,3 +298,5 @@ Use */artikel_pdf/twig/item/{itemId}/variation/{variationId}* route to see all a
 <barcode code="978020137962" type="EAN13" />
 <barcode code="https://google.com" type="QR" />
 ```
+
+{% endraw %}
